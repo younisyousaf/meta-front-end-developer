@@ -1,4 +1,4 @@
-# meta-front-end-developer
+# Meta-Front-End-Developer-Specialization
 
 # Course Repository
 
