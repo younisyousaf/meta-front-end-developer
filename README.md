@@ -26,4 +26,4 @@ This repository contains all quizzes, assessments, and certificates for the cour
 
 ## Take the course at
 
-[Coursera]([https://coursera.org/](https://www.coursera.org/professional-certificates/meta-front-end-developer?))
+[Coursera](https://www.coursera.org/professional-certificates/meta-front-end-developer?)
