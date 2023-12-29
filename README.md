@@ -1,4 +1,5 @@
 # meta-front-end-developer
+
 # Course Repository
 
 This repository contains all quizzes, assessments, and certificates for the course.
@@ -6,12 +7,14 @@ This repository contains all quizzes, assessments, and certificates for the cour
 ## Course Content
 
 ### Introduction to Front-End Development
+
 - Get started with web development
 - Introduction to HTML and CSS
 - UI Frameworks
 - End-of-Course Graded Assessment
 
 ### Programming with JavaScript
+
 - Introduction to JavaScript
 - The Building Blocks of a Program
 - Programming Paradigms
@@ -19,6 +22,7 @@ This repository contains all quizzes, assessments, and certificates for the cour
 - End-of-Course Graded Assessment
 
 ### Version Control
+
 - Software collaboration
 - Command Line
 - Working with Git
@@ -26,4 +30,4 @@ This repository contains all quizzes, assessments, and certificates for the cour
 
 ## Take the course at
 
-[Coursera](https://www.coursera.org/professional-certificates/meta-front-end-developer?)
+[Coursera/Meta-Front-End-Developer](https://www.coursera.org/professional-certificates/meta-front-end-developer?)
