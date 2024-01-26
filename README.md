@@ -28,6 +28,12 @@ This repository contains all quizzes, assessments, and certificates for the cour
 - Working with Git
 - Graded Assessment
 
+### HTML CSS in Depth
+
+- HTML in Depth
+- Interactive CSS
+- Graded Assessment
+
 ## Take the course at
 
 [Coursera/Meta-Front-End-Developer](https://www.coursera.org/professional-certificates/meta-front-end-developer?)
